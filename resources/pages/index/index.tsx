@@ -1,3 +1,4 @@
+import React from "react";
 import { Inertia } from "@inertiajs/inertia";
 import { InertiaLink } from "@inertiajs/inertia-react";
 import VtrilProgress from "vtril-progress";

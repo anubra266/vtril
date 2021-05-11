@@ -1,3 +1,4 @@
+import React from "react";
 import VtrilProgress from "vtril-progress";
 //? handle any app bootstrapping here
 
