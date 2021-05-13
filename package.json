@@ -23,6 +23,7 @@
         "@inertiajs/inertia-react": "^0.5.12",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
+        "rollup-plugin-visualizer": "^5.5.0",
         "vtril-progress": "^2.0.0"
     }
 }
