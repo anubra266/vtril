@@ -16,7 +16,7 @@
         "lodash": "^4.17.19",
         "react-errbo": "^2.3.0",
         "typescript": "^4.2.4",
-        "vite": "^2.0.1"
+        "vite": "^2.9.13"
     },
     "dependencies": {
         "@inertiajs/inertia": "^0.8.7",
